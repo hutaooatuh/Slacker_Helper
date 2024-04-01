@@ -6,6 +6,4 @@
 
 启动Slacker Helper后，按下ctrl+alt+z将隐藏焦点（最前面）窗口（可以隐藏多个），按下ctrl+alt+s将显示所有隐藏的窗口，按下ctrl+alt+q将退出程序（此快捷键可能与其他程序冲突，请在桌面下（没有程序成为焦点）使用）。
 
-因为 hutaoatuh 不会用许可证，所以没有开源（可以[联系 hutaooatuh](https://www.luogu.com.cn/chat?uid=942578)获取）。但是即使这样您也不应该使用该程序作为商业用途。
-
 有任何建议/问题推荐在洛谷上[联系 hutaooatuh](https://www.luogu.com.cn/chat?uid=942578)，Issues 作者一般不会看。
