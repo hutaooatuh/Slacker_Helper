@@ -14,4 +14,4 @@
 
 ## 开机启动
 
-请查看[洛谷上的教程](https://www.luogu.com.cn/paste/4vrbix83)。
+请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
