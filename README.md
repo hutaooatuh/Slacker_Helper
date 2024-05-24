@@ -15,3 +15,7 @@
 ## 开机启动
 
 请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
+
+## 应用管理器截图
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/897ea53m.png)
