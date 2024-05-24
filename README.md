@@ -16,6 +16,6 @@
 
 请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
 
-## 应用管理器截图
+## 任务管理器截图
 
 [![pkQ25LQ.png](https://s21.ax1x.com/2024/05/24/pkQ25LQ.png)](https://imgse.com/i/pkQ25LQ)
