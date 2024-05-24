@@ -18,4 +18,4 @@
 
 ## 应用管理器截图
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/897ea53m.png)
+[![pkQ25LQ.png](https://s21.ax1x.com/2024/05/24/pkQ25LQ.png)](https://imgse.com/i/pkQ25LQ)
