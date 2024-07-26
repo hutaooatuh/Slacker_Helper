@@ -1,19 +1,9 @@
-# Slacker Helper
+# 更新日志
 
-## 介绍
+解决了一个开机自启时有可能报错的bug（其实只是将该部分代码删除了）。
 
-想要摸鱼但怕被教练制裁？想内卷但不被同学发现？试试用Slacker Helper！
+移除了隐藏窗口的记忆功能（这个功能使关闭Slacker Helper后再打开依然可以恢复之前未恢复的窗口，这个功能几乎无用，并可能导致bug）。
 
-启动Slacker Helper后，按下ctrl+alt+z将隐藏焦点（最前面）窗口（可以隐藏多个），按下ctrl+alt+s将显示最近隐藏的一个窗口，按下ctrl+alt+q将退出程序（此快捷键可能与其他程序冲突，请在桌面下（没有程序成为焦点）使用）。
+移除了退出快捷键，现在需要使用任务管理器退出程序。
 
-## 下载
-
-下载上方的 `sh-1.0.4.exe` 文件，也可以通过分支下载。
-
-## 开机启动
-
-请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
-
-## 任务管理器截图
-
-[![pkQ25LQ.png](https://s21.ax1x.com/2024/05/24/pkQ25LQ.png)](https://imgse.com/i/pkQ25LQ)
+微调了程序睡眠时间，稍微减少Slacker Helper占用的性能（Slacker Helper几乎不占用任何性能，请放心使用）。
