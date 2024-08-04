@@ -2,9 +2,9 @@
 
 ## 介绍
 
-想要摸鱼但怕被教练制裁？想内卷但不被同学发现？试试用Slacker Helper！（~~推荐搭配[No Slacking](https://github.com/hutaooatuh/No_Slacking)使用~~）
+想要摸鱼但怕被教练制裁？想内卷但不被同学发现？试试用 Slacker Helper！（~~推荐搭配[No Slacking](https://github.com/hutaooatuh/No_Slacking)使用~~）
 
-启动Slacker Helper后，按下ctrl+alt+z将隐藏当前聚焦的窗口（可以隐藏多个），按下ctrl+alt+s将显示最近隐藏的一个窗口。当您想要退出程序时，请手动打开任务管理器结束。
+启动 Slacker Helper 后，按下ctrl+alt+z将隐藏当前聚焦的窗口（可以隐藏多个），按下ctrl+alt+s将显示最近隐藏的一个窗口。当您想要退出程序时，请手动打开任务管理器结束。
 
 ## 下载
 
